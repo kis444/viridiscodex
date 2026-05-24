@@ -64,7 +64,7 @@ export function Header() {
           <img 
             src="/logo.png" 
             alt="ViridisCodex Logo" 
-            className="h-6 w-auto"
+            className="h-14 w-auto"
           />
           VIRIDISCODEX
         </a>

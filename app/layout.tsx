@@ -20,6 +20,9 @@ const montserrat = Montserrat_Alternates({
 export const metadata: Metadata = {
   title: 'viridiscodex — Full Stack Developer & Designer',
   description: 'Premium web development services. I understand composition like an artist and structure like an engineer.',
+  verification: {
+    google: '-Vdy5T8r02SDId53uVQp_wJf9yPYT2kKirYgIxiTzUg',
+  },
 }
 
 export const viewport: Viewport = {
